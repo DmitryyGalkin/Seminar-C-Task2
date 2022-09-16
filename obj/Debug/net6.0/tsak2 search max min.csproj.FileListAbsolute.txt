@@ -1,0 +1,15 @@
+C:\Users\seebu\Desktop\geekbrains\C#\tsak2 search max min\bin\Debug\net6.0\tsak2 search max min.exe
+C:\Users\seebu\Desktop\geekbrains\C#\tsak2 search max min\bin\Debug\net6.0\tsak2 search max min.deps.json
+C:\Users\seebu\Desktop\geekbrains\C#\tsak2 search max min\bin\Debug\net6.0\tsak2 search max min.runtimeconfig.json
+C:\Users\seebu\Desktop\geekbrains\C#\tsak2 search max min\bin\Debug\net6.0\tsak2 search max min.dll
+C:\Users\seebu\Desktop\geekbrains\C#\tsak2 search max min\bin\Debug\net6.0\tsak2 search max min.pdb
+C:\Users\seebu\Desktop\geekbrains\C#\tsak2 search max min\obj\Debug\net6.0\tsak2 search max min.csproj.AssemblyReference.cache
+C:\Users\seebu\Desktop\geekbrains\C#\tsak2 search max min\obj\Debug\net6.0\tsak2 search max min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seebu\Desktop\geekbrains\C#\tsak2 search max min\obj\Debug\net6.0\tsak2 search max min.AssemblyInfoInputs.cache
+C:\Users\seebu\Desktop\geekbrains\C#\tsak2 search max min\obj\Debug\net6.0\tsak2 search max min.AssemblyInfo.cs
+C:\Users\seebu\Desktop\geekbrains\C#\tsak2 search max min\obj\Debug\net6.0\tsak2 search max min.csproj.CoreCompileInputs.cache
+C:\Users\seebu\Desktop\geekbrains\C#\tsak2 search max min\obj\Debug\net6.0\tsak2 search max min.dll
+C:\Users\seebu\Desktop\geekbrains\C#\tsak2 search max min\obj\Debug\net6.0\refint\tsak2 search max min.dll
+C:\Users\seebu\Desktop\geekbrains\C#\tsak2 search max min\obj\Debug\net6.0\tsak2 search max min.pdb
+C:\Users\seebu\Desktop\geekbrains\C#\tsak2 search max min\obj\Debug\net6.0\tsak2 search max min.genruntimeconfig.cache
+C:\Users\seebu\Desktop\geekbrains\C#\tsak2 search max min\obj\Debug\net6.0\ref\tsak2 search max min.dll
